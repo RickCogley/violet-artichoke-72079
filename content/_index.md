@@ -10,14 +10,22 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
+    content: >
+      日本語 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci
+      diam, elementum consectetur elit non, tempus varius leo. In ut bibendum
+      mauris. Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi
+      sed condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere
+      mollis. Aliquam facilisis neque eget ligula aliquam consequat.
+
+
+      *   テスト
+
+
+      *   テスト
+
 
       ### This is an H3. Use it for subheads and subsections.
+
 
       Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
       dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
